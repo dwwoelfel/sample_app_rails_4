@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 ruby '2.0.0'
+
+gem 'rspec_junit_formatter', :github => 'circleci/rspec_junit_formatter', :branch => 'rspec3-debug'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.8'
