@@ -6,8 +6,8 @@ GIT
 
 GIT
   remote: git://github.com/circleci/rspec_junit_formatter.git
-  revision: 8e053885be9d8383ecc69aa8e5391a448078ba45
-  branch: rspec3-debug
+  revision: 7b098c8ab2ac5e5f78190b51629ed6d67a9de4d1
+  branch: reset-to-fork
   specs:
     rspec_junit_formatter (0.2.0)
       builder (< 4)
